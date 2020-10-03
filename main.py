@@ -33,6 +33,6 @@ print( len (psentence))
 # the 10% over-scan value of those numbers. The printed string must be as 
 # follows: "The 10% overscan of 1920 is <value 1>, and the 1080 is <value 2>"
 
-value1= 2112
-value2= 1188
-print("The 10% overscan of 1920 is " + str(value1) + ", and the 1080 is " + str(value2) + ".")
+value1= "2112"
+value2= "1188"
+print("The 10% overscan of 1920 is " + value1 + ", and the 1080 is " + value2 + ".")
